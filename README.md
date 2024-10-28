@@ -13,7 +13,7 @@ We drew and designed our tables showing the fields in each table, and the connec
 
 
 ## Tools
-- Word served as our space to design and conceptualize our tables
+- Word served as our creative space to design and conceptualize our tables
 - MySQL Workbench was used to store data and analysis
 - Power BI was used for data visualization and creation of measures with DAX formulas.
 
@@ -51,7 +51,7 @@ Some of the key questions raised were:
 
 ## Recommendations
 
-- Ceberities should explore multiple revenue streams beyond traditional methods
+- Celebrities should explore multiple revenue streams beyond traditional methods
 - Poor performing famous people should use social media to build a strong fanbase and engage with fans effectively
 - Stay informed about industry trends and adapt to changes in the market
 
