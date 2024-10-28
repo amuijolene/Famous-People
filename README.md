@@ -13,7 +13,7 @@ We drew and designed our tables showing the fields in each table, and the connec
 
 
 ## Tools
-- Word served as our creative space to design and conceptualize our tables
+- MS Word served as our creative space to design and conceptualize our tables
 - MySQL Workbench was used to store data and analysis
 - Power BI was used for data visualization and creation of measures with DAX formulas.
 
