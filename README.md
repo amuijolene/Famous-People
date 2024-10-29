@@ -1,4 +1,4 @@
-# Famous-People
+# Famous-People Analysis
 ## Contributors
 
 1. Peniel Tenkoramah Twum
